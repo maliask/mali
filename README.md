@@ -1,10 +1,7 @@
 ## Yeni hayatıma hoşgeldin
 
 # Ödevler
-    <ul>
-	<li><a href="CV.html">CV
- <nav>
-	 <title>2</title><nav> 
+    <nav>
    <ul>
-	<li><a href="Satranc.html">Satranç Tahtası
- <nav>
+	<li><a href="CV.html">CV
+	<li><a href="satranc.html">Satranç Tahtası
