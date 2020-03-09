@@ -1,6 +1,6 @@
 ## Yeni hayatıma hoşgeldin
 
-# Ödev 1
+# Ödevler
  <nav>
    <ul>
 	<li><a href="CV.html">CV
