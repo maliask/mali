@@ -1,6 +1,6 @@
 ## Yeni hayatıma hoşgeldin
 
-# Odev 1
+# Ödev 1
  <nav>
    <ul>
 	<li><a href="CV.html">CV
