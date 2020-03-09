@@ -4,6 +4,6 @@
  <nav>
    <ul>
 	<li><a href="CV.html">CV
- <nav>
+ <nav>(/br)
    <ul>
 	<li><a href="Satranc.html">Satranç Tahtası
