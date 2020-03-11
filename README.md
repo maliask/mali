@@ -1,6 +1,6 @@
 ## Yeni hayatıma hoşgeldin ##
-
-# <li><a href="odevler.html">Ödevler
+<a href="odevler.html">Ödevler
+# <li>
    <ul>
 	<li><a href="CV.html">CV
 	<li><a href="Satranc.html">Satranç Tahtası
