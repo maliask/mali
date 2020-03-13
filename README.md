@@ -1,2 +1,2 @@
-<head>## Yeni hayatıma hoşgeldin ##</head>
+<title>## Yeni hayatıma hoşgeldin ##</title>
 <a href="odevler.html">Ödevler
