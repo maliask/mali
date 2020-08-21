@@ -32,8 +32,8 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
     // Anlık olarak id="gerisayim" içine aktarılıyor
-    document.getElementById("gerisayim").innerHTML = "Kavuşmamıza " + days + "gün " + hours + "saat"
-    + minutes + "dakika " + seconds + "saniye " + "kaldı.";
+    document.getElementById("gerisayim").innerHTML = "Kavuşmamıza&nbsp" + days + "gün&nbsp" + hours + "saat&nbsp"
+    + minutes + "dakika&nbsp" + seconds + "saniye&nbsp" + "kaldı.";
     
     // Süre dolduğunda yazacak yazı.
     if (distance < 0) {
